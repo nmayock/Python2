@@ -1,14 +1,4 @@
-#Noah Mayock 
 #Assignment: Password Validator
-#Reflection:
-#I really just enjoyed getting back into python, this felt like a great refresher with some cool new things added.
-#It took me a little bit to figure out how to iterate over the password once for the character requirements. At first I was 
-#using any() for those checks but you and Tyler thankfully put a stop to that.
-#Combining similar tasks whereever possible and making sure I used the most efficient methods. At first I was using casefold()
-#rather than lower/upper() to case match but there was no need to use the more aggresive method so I switched.
-#I learned a lot more about string methods and how to efficiently use them.
-#I learned more about truth value testing, when I first wrote some of these checks I was checking if a list was empty 
-#using the len(list) == 0 instead of just if/if not list:.
 
 #func for initial extraction:
 
