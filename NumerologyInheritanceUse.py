@@ -1,4 +1,3 @@
-# Noah Mayock
 # Assignment: Numerology Inheritance
 
 import NumerologyLifePathDetails as numIn
