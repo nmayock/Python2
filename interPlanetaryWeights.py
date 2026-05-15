@@ -1,18 +1,5 @@
-#Name: Noah Mayock
 #Assignment: Planetary Weights Dictionaries
-#Reflection
-# 1. I hadn't used python to work with files since the paint job calculator assignment from python 1 and I feel like its very important to be comfortable with and has so many applications so I really enjoyed getting more
-#    familiar with it.
-# 2. I think its because I expected it to be so simple but the formatting ended up driving me nuts. I spent so much time trying to change the alignment and padding to match the sample output, especially with the : 
-#    following the planet name. Eventually I figured out I could store that part of the output as an f string in its own variable but even then I had to keep messing with the padding on that so the the alignment was
-#    correct.
-# 3. A big thing I learned was if you need data normalized, do it when its entered. I came up with two-three different ways to normalize it after input when checking for unique names before it clicked that I could skip that
-#    altogether by just capitalizing the name right when its inputted instead of making a list of normalized names and dict keys. Definitely a mixture of being glad I figured that out and a little frustrated it took so long to do #    so.
-# 4. This project made me rethink the way I tackle programming problems. I think you can probably tell from the way my functions are ordered but I went at this by doing what I perceived to be the most difficult/unfamiliar
-#    tasks first. I think that probably created avoidable friction points as I went on to other requirements. For the next assignmnet I really want to focus on mapping out the programs requirements and thinking about how they 
-#    should be handled in a more logical/flowing way.
-# 5. I also learned about using type hinting/annotaion for functions, I know it wasn't necesarry for the assignment but Tyler suggested it and it is cleaner/more informative.
-#
+
 import pickle
 import inputPromptValidationModule as ivm
 
